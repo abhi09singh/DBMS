@@ -13,5 +13,5 @@ For example, CITY has four entries: DEF, ABC, PQRS and WXY.
 
 Sample Output
 
-ABC 3
+ABC 3 <br>
 PQRS 4
